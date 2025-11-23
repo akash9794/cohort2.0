@@ -85,6 +85,7 @@ console.log(d.getTime()); // returns miliseconds since 1970;
 /****JSON --> JavaScript Object Notation  //JSON.parse(string) && JSON.stringify(obj)***************************/
 //parse --> string to object
 const user = '{"name": "akash", "age": "20", "gender": "male"}';
+// const user = "Akash Shukla";
 const user1 = JSON.parse(user);
 console.log(user1);
 

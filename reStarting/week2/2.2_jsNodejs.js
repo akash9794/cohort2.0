@@ -24,7 +24,7 @@
 //500 Internal server error
 
 //There are many Libraries that lets you create HTTP Servers --> most famous one Express.
-//before writing the cod ein express 1. npm init -y 2. npm install express
+//before writing the code in express 1. npm init -y 2. npm install express
 
 
 //express, body-parser, query parameters (header --> ?msg=hello)

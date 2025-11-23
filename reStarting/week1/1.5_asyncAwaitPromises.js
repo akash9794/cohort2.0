@@ -37,7 +37,7 @@
 // const fs = require("fs");
 
 // function myAsyncFunc() {
-//     return new Promise(function (resole){
+//     return new Promise(function(resolve) {
 //         fs.readFile("a.txt", "utf-8", (err, data) => {
 //             resolve(data);
 //         });
